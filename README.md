@@ -11,7 +11,6 @@
 - [Models](#models)
 - [Results](#results)
 - [Experiments](#experiments)
-- [Setup & Usage](#setup--usage)
 - [File Structure](#file-structure)
 - [Key Concepts](#key-concepts)
 
