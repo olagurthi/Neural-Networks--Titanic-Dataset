@@ -103,45 +103,6 @@ The notebook runs **4 hyperparameter sweeps**, each with a visualisation:
 
 ---
 
-## Setup & Usage
-
-### Requirements
-
-```
-Python >= 3.8
-torch
-scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-```
-
-### Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/titanic-nn-pytorch.git
-cd titanic-nn-pytorch
-
-# Install dependencies
-pip install torch scikit-learn pandas numpy matplotlib seaborn jupyter
-
-# Launch Jupyter
-jupyter lab
-```
-
-### Running the Notebook
-
-1. Place `Titanic-Dataset.csv` in the same folder as the notebook
-2. Open `titanic_nn_analysis.ipynb` in Jupyter Lab
-3. Run all cells top-to-bottom (`Kernel → Restart & Run All`)
-
-> All plots will render inline. Training usually takes 1–3 minutes total.
-
----
-
 ## File Structure
 
 ```
