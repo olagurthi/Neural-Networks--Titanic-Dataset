@@ -1,4 +1,5 @@
-# 🚢 Titanic Survival Prediction — Neural Networks Deep Dive
+# 🚢 Titanic Survival Prediction
+# Neural Networks Deep Dive
 
 > Binary classification with PyTorch: comparing a **Simple** vs **Deep** neural network on the classic Titanic dataset, with thorough hyperparameter analysis.
 
